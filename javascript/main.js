@@ -15,8 +15,8 @@
   images[8] = './img/scotland1.jpg';
   images[9] = './img/scotland2.jpg';
   images[10] = './img/apostleislands1.jpg';
-  images[12] = './img/stonehendge.jpg';
-  images[13] = './img/motorcycle1.jpg';
+  images[11] = './img/stonehendge.jpg';
+  images[12] = './img/motorcycle1.jpg';
 
   // Change Image
     function changeImg(){
