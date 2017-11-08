@@ -9,14 +9,11 @@
   images[2] = './img/norway7.jpg';
   images[3] = './img/norway1.jpg';
   images[4] = './img/norway11.jpg';
-  images[5] = './img/perotstatepark.jpg';
-  images[6] = './img/puertorico.jpg';
-  images[7] = './img/rockclimbing1.jpg';
-  images[8] = './img/scotland1.jpg';
-  images[9] = './img/scotland2.jpg';
-  images[10] = './img/apostleislands1.jpg';
-  images[11] = './img/stonehendge.jpg';
-  images[12] = './img/motorcycle1.jpg';
+  images[5] = './img/puertorico.jpg';
+  images[6] = './img/rockclimbing1.jpg';
+  images[7] = './img/scotland2.jpg';
+  images[8] = './img/stonehendge.jpg';
+  images[9] = './img/motorcycle1.jpg';
 
   // Change Image
     function changeImg(){
